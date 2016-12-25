@@ -42,7 +42,7 @@ Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos ite
 
 12. A cada semana e, a cada mês, se buscará definir e realizar apenas aquilo que não está feito e é EM VIAS DE FATO ESSENCIAL para a manutenção da entidade e do propósito dela.
 
-13. Hierarquia geralmente mais atrapalha do que ajuda, assim como nem todo processo é realmente útil ─ou em vias de fato, se apĺica.
+13. Hierarquia geralmente mais atrapalha do que ajuda, assim como nem todo processo é realmente útil ─ou, em vias de fato, se aplica.
 
 14. O trabalho se dá em acordo mútuo de indivíduos, ponto-a-ponto e cara a cara, e há confiança plena de que todos entregarão àquilo para com o que se comprometem.
 
