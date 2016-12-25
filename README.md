@@ -1,8 +1,8 @@
 # Manifesto para Administração Ágil
 
-Nós estamos descobrindo novas maneiras de Administrar empresas ao ajudarmos outras pessoas e empresas.
+Nós estamos descobrindo novas maneiras de Administrar empresas ao ajudarmos outras pessoas e empresas a fazerem isto.
 
-Através destes trabalho, nós chegamos a este valor:
+Através destes trabalhos, nós chegamos a este valor:
 
 **Indivíduos e suas interações** sobre processos e ferramentas
 
@@ -11,6 +11,8 @@ Através destes trabalho, nós chegamos a este valor:
 **Colaboração com os clientes** sobre negociações e contratos
 
 **Adaptação e resposta rápida a mudanças** sobre seguir um plano fixo
+
+Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos itens à esquerda.
 
 # Princípios Guia da Administração Ágil
 
