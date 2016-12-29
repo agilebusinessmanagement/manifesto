@@ -42,11 +42,11 @@ Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos ite
 
 12. A cada semana e, a cada mês, se buscará definir e realizar apenas aquilo que não está feito e é EM VIAS DE FATO ESSENCIAL para a manutenção da entidade e do propósito dela.
 
-13. Hierarquia geralmente mais atrapalha do que ajuda, assim como nem todo processo é realmente útil ─ou, em vias de fato, se aplica.
+13. A hierarquia, em geral, mais cria obstáculos do que auxilia. De mesma forma, nem todo seguimento de processos é realmente efetivo ou se aplica sem exceções.
 
-14. O trabalho se dá em acordo mútuo de indivíduos, ponto-a-ponto e cara a cara, e há confiança plena de que todos entregarão àquilo para com o que se comprometem.
+14. O trabalho pode ser realizado através do acordo mútuo entre indivíduos - de ponta a ponta e presencialmente - , havendo a confiança plena de que cada um entregará os resultados e os feedbacks propostos. 
 
-15. Só fale a respeito do que tem certeza, não tenha medo de assumir que não sabe e não especule. Isso garante maior noção sobre a realidade e embasa as tomadas de decisão com mais maturidade.
+15. Só fale a respeito do que tem certeza, não tenha medo de assumir que não sabe e não especule. Isso garante maior noção sobre a realidade e embasa as tomadas de decisão com maior maturidade.
 
 16. Comunicação, Informação e Cultura devem ser sempre ponto-a-ponto e horizontais.
 
