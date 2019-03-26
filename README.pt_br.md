@@ -4,17 +4,17 @@ Nós estamos descobrindo novas maneiras de Administrar empresas ao ajudarmos out
 
 Através destes trabalhos, nós chegamos a este valor:
 
-**Indivíduos e suas interações** sobre processos e ferramentas
+**Indivíduos e suas interações** mais que processos e ferramentas
 
-**Empresas funcionais e saudáveis** sobre documentação, hierarquia e burocracia
+**Empresas funcionais e saudáveis** mais que documentação, hierarquia e burocracia
 
-**Colaboração com os clientes** sobre negociações e contratos
+**Colaboração com os clientes** mais que negociações e contratos
 
-**Adaptação e resposta rápida a mudanças** sobre seguir um plano fixo
+**Adaptação e resposta rápida a mudanças** mais que seguir um plano fixo
 
 Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos itens à esquerda.
 
-*Inspirado pelo [Manifesto Ágil](https://agilemanifesto.org/)*
+*Inspirado pelo [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html)*
 
 # Princípios Guia da Administração Ágil
 
@@ -42,7 +42,7 @@ Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos ite
 
 11. Não existe trabalho perfeito, existe o que está feito e o que não está
 
-12. A cada semana e, a cada mês, se buscará definir e realizar apenas aquilo que não está feito e é EM VIAS DE FATO ESSENCIAL para a manutenção da entidade e do propósito dela.
+12. A cada semana e, a cada mês, se buscará definir e realizar apenas aquilo que não está feito e é essencial para a manutenção da entidade e do propósito dela.
 
 13. A hierarquia, em geral, mais cria obstáculos do que auxilia. De mesma forma, nem todo seguimento de processos é realmente efetivo ou se aplica sem exceções.
 
@@ -54,7 +54,7 @@ Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos ite
 
 17. Trabalhar em equipe significa trabalhar em conjunto em prol de um objetivo em comum de forma eficiente e eficaz.
 
-18. Objetivos que não são claros não são objetivos: TODO OBJETIVO deve ser definido em uma única frase. Não um parágrafo. Não um documento. Uma Frase.
+18. Objetivos que não são claros não são objetivos: todo objetivo deve ser definido em uma única frase. Não um parágrafo. Não um documento. Uma Frase.
 
 19. Meta é a união entre objetivo, data de entrega e responsável.
 
