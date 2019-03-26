@@ -6,13 +6,15 @@ Através destes trabalhos, nós chegamos a este valor:
 
 **Indivíduos e suas interações** sobre processos e ferramentas
 
-**Empresas funcionais e saudáveis** sobre documentação e burocracia
+**Empresas funcionais e saudáveis** sobre documentação, hierarquia e burocracia
 
 **Colaboração com os clientes** sobre negociações e contratos
 
 **Adaptação e resposta rápida a mudanças** sobre seguir um plano fixo
 
 Mesmo vendo valor nos itens à direita, damos atenção especial e valor aos itens à esquerda.
+
+*Inspirado pelo [Manifesto Ágil](https://agilemanifesto.org/)*
 
 # Princípios Guia da Administração Ágil
 
