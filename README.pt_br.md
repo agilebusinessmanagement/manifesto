@@ -1,12 +1,12 @@
 # Manifesto para Administração Ágil
 
-Nós estamos descobrindo novas maneiras de Administrar empresas ao ajudarmos outras pessoas e empresas a fazerem isto.
+Nós estamos descobrindo novas maneiras de Administrar organizações ao ajudarmos outras pessoas e organizações a fazerem isto.
 
 Através destes trabalhos, nós chegamos a este valor:
 
 **Indivíduos e suas interações** mais que processos e ferramentas
 
-**Empresas funcionais e saudáveis** mais que documentação, hierarquia e burocracia
+**Organizações funcionais e saudáveis** mais que documentação, hierarquia e burocracia
 
 **Colaboração com os clientes** mais que negociações e contratos
 
